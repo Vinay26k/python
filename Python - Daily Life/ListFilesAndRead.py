@@ -14,8 +14,6 @@ for filename in glob.glob(os.path.join(path, '*.txt')):
         for j in words:
             if j in r:
                 print t,r
-                #if t not in val and int(t)>1000: #you dont need this in your work
-                #    val.append(t)
                 q.write(t+" "+r+"\n")
                 
     f.close()
