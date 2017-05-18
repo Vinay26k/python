@@ -53,31 +53,5 @@ def scoreDetails(matchNum):
        # print result
         return result
     except KeyError:
-        return
-'''   
-url = 'http://synd.cricbuzz.com/j2me/1.0/livematches.xml'
-r = requests.get(url)
-data = r.text
-doc = xmltodict.parse(data)
-soup = BeautifulSoup(data,'html.parser')
-matches = soup.find_all(['match','Tme'])
+        returnore
 
-#print [ match['id'] for match in matches if match['Dt']=='May 03 2017']
-#print soup.find_all('match')
-#s = soup.find_all('Tme')
-#if doc['mchdata']['match'][i]['Tme']['@Dt']== u'May 03 2017'
- #May 04 2017 format
-#date = 'May 03 2017'
-#print date 
-#TotalMatches = [doc['mchdata']['match'][i]['Tme']['@Dt'] for i in range(len(doc['mchdata']['match'])) if doc['mchdata']['match'][i]['Tme']['@Dt']== date]
-#MatchIds = [doc['mchdata']['match']['@id'] for i in range(len(doc)) if doc['mchdata']['match'][i]['Tme']['@Dt']== date]
-#if not TotalMatches:
-#    print "No Current Running match today"
-#else:
-#    print MatchIds
-#print [match['Dt'] for match in soup.match]
-#if match['Dt']=='May 03 2017']
-matchDetails(doc)
-print [det[i] for i in det]
-print tScore
-'''
