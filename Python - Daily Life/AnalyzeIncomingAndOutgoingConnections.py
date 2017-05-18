@@ -5,8 +5,6 @@
 import subprocess
 import sys
 #command = r"cmd.exe /c dir"# the shell command
-command = r'cmd /c "C:\Program Files\Wireshark\tshark" -i 5'
-#command = r"C:\Program Files\Wireshark\tshark.exe -i 5"
 process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=None, shell=True)
 
 import ReadjsonIp as rjip
