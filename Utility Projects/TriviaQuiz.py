@@ -94,4 +94,4 @@ while True:
         op[inp]()
 
 
-#download exe file: https://www.dropbox.com/s/tzjzxxjr9g5itmi/TriviaQuiz.exe?dl=0
+#download exe file: https://www.dropbox.com/s/l754ehsx9q84ymm/TriviaQuiz.exe?dl=0
