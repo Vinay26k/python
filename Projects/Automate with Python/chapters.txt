@@ -1,0 +1,29 @@
+Chapter  0 – Introduction [->] /chapter0/
+Chapter  1 – Python Basics [->] /chapter1/
+Chapter  2 – Flow Control [->] /chapter2/
+Chapter  3 – Functions [->] /chapter3/
+Chapter  4 – Lists [->] /chapter4/
+Chapter  5 – Dictionaries and Structuring Data [->] /chapter5/
+Chapter  6 – Manipulating Strings [->] /chapter6/
+Chapter  7 – Pattern Matching with Regular Expressions [->] /chapter7/
+Chapter  8 – Reading and Writing Files [->] /chapter8/
+Chapter  9 – Organizing Files [->] /chapter9/
+Chapter 10 – Debugging [->] /chapter10/
+Chapter 11 – Web Scraping [->] /chapter11/
+Chapter 12 – Working with Excel Spreadsheets [->] /chapter12/
+Chapter 13 – Working with PDF and Word Documents [->] /chapter13/
+Chapter 14 – Working with CSV Files and JSON Data [->] /chapter14/
+Chapter 15 – Keeping Time, Scheduling Tasks, and Launching Programs [->] /chapter15/
+Chapter 16 – Sending Email and Text Messages [->] /chapter16/
+Chapter 17 – Manipulating Images [->] /chapter17/
+Chapter 18 – Controlling the Keyboard and Mouse with GUI Automation [->] /chapter18/
+Appendix A – Installing Third-Party Modules [->] /appendixa/
+Appendix B – Running Programs [->] /appendixb/
+Appendix C – Answers to the Practice Questions [->] /appendixc/
+Download files used in the book [->] https://www.nostarch.com/download/Automate_the_Boring_Stuff_onlinematerials.zip
+List of CSS Selector Tutorials [->] /list-of-css-selector-tutorials.html
+List of JSON APIs [->] /list-of-json-apis.html
+List of Programming Practice Sites [->] /list-of-programming-practice-sites.html
+List of Web Comics [->] /list-of-web-comics.html
+Schedulers for Windows, Mac, and Linux [->] /schedulers.html
+How to Do PyCon (or any tech conference) [->] /how-to-do-pycon.html
