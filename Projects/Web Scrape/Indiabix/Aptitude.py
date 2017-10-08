@@ -5,6 +5,13 @@ import os
 f = open('AptiLinks.txt','w+')
 links = []
 
+def cred():
+    print '''
+        https://github.com/Vinay26k/
+        All copyrights related this software belongs to Vinay :)
+        Mail : vinay@programmer.net
+        Contact : +91-9872375950
+'''
 def link():
     url = r'https://www.indiabix.com/aptitude/questions-and-answers/'
     r = requests.get(url).text
@@ -47,6 +54,7 @@ def subPage(links):
   
 
 #link()
+cred()
 subPage(link())
 f.close()
 #EpageMax(link())
