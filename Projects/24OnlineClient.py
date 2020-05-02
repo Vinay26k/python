@@ -8,7 +8,6 @@ def cred():
         https://github.com/Vinay26k/
         All copyrights related this software belongs to Vinay :)
         Mail me at: vinay@programmer.net
-        Contact : +91-9872375950
 
 Note :
 1. Allow access to phantomjs and 24OnlineClient application
