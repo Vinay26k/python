@@ -10,7 +10,6 @@ def cred():
         https://github.com/Vinay26k/
         All copyrights related this software belongs to Vinay :)
         Mail : vinay@programmer.net
-        Contact : +91-9872375950
 '''
 def link():
     url = r'https://www.indiabix.com/aptitude/questions-and-answers/'
